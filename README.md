@@ -34,13 +34,13 @@
 -->
 
 * 👨‍💻 Pre-Final Year Student at DDU(Dharmsinh Desai University).
-* 🔭 I’m currently working on ML.
+* 🔭 I’m currently working on MERN.
 * 👯 I’m looking to collaborate on all types of Projects
-* 💬 Would Like to talk about Python, Machine Learning, Full Stack Development
-* 🌱 I’m currently learning Cloud computing, Machine Learning, Java
-*  📫 Reach me at: bkkanya123@gmail.com
+* 💬 Would Like to talk about Python, MERN, Full Stack Development
+* 🌱 I’m currently learning Java
+*  📫 Reach me at: kanyabhatt13@gmail.com
 
-![GitHub Views](https://komarev.com/ghpvc/?username=Kanya-bhatt&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=kanyabhatt13&color=FAC151)
 
 ### You can contact me at:
 
